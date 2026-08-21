@@ -67,6 +67,11 @@ Select 3 to calculate and display the average rating for each individual environ
 
 Select 4 to end the program.
 
+## Demo Video
+In this video, I go through options 1, 3, and 4
+
+https://github.com/user-attachments/assets/ebe72edc-c84d-49d8-a5ad-341ed494ef74
+
 ## What I Learned
 
 This project helped me practice:
