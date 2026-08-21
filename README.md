@@ -1,4 +1,4 @@
-# Sensory Environment Tracker
+# Environment Insight
 
 A terminal based JavaScript application that allows users to record their ratings of environmental factors such as noise, light, temperature, and humidity. The program stores entries during the session and provides a summary.
 
